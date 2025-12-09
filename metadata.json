@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Chat",
+  "description": "A real-time chat application with a modern UI similar to Discord, powered by Google Gemini.",
+  "requestFramePermissions": []
+}
